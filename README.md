@@ -11,7 +11,7 @@ Additionally, the repository contains 1 Python notebook that details how to crea
 ### Purpose
 ### What can this data be used for?
 - This data is a resource for scientists, or anyone, who are interested in cancer research and who want to investigate cancer trends by demographic groups.
-What might this data, and its analysis, show us?
+### What might this data, and its analysis, show us?
 - The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures.
 ---
 ### Acknowledgments
