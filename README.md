@@ -1,7 +1,6 @@
 # Cancer Data Repository
 This repository contains data of cancer patients, intended to be used for analysis of diagnosis and outcome trends by demographic group. 
 
----
 # What is in this repository?
 The repository contains two `.csv` files: 
 1. The raw cancer data sourced from the [Cancer Data Aggregator](https://cda.readthedocs.io/en/latest/interactive/) found via the [Cancer Research Data Commons](https://datacommons.cancer.gov/cancer-research-data-commons)
@@ -9,7 +8,6 @@ The repository contains two `.csv` files:
 Additionally, the repository contains 1 Python notebook that details how to create the aforementioned data subset from the raw data using Python3.  
 ---
 # Purpose
-
 #### What can this data be used for?
 - This data is a resource for scientists, or anyone, who are interested in cancer research and who want to investigate cancer trends by demographic groups.
 #### What might this data, and its analysis, show us?
