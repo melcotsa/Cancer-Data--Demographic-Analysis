@@ -15,7 +15,7 @@ What might this data, and its analysis, show us?
 - The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures.
 ---
 ### Acknowledgments
-This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible.
+This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences.
 
 ---
 ### Licensing
