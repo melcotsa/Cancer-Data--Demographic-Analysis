@@ -4,7 +4,7 @@ This repository contains data of cancer patients, intended to be used for analys
 ---
 # What is in this repository?
 The repository contains two `.csv` files: 
-1. The raw cancer data sourced from the [Cancer Data Aggregator] (https://cda.readthedocs.io/en/latest/interactive/) found via the [Cancer Research Data Commons] (https://datacommons.cancer.gov/cancer-research-data-commons)
+1. The raw cancer data sourced from the [Cancer Data Aggregator](https://cda.readthedocs.io/en/latest/interactive/) found via the [Cancer Research Data Commons](https://datacommons.cancer.gov/cancer-research-data-commons)
 2. A subset of the data that only includes the sex of the patients and their primary diagnosis site. 
 Additionally, the repository contains 1 Python notebook that details how to create the aforementioned data subset from the raw data using Python3.  
 ---
