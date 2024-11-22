@@ -8,7 +8,8 @@ The repository contains two `.csv` files:
 2. A subset of the data that only includes the sex of the patients and their primary diagnosis site. 
 Additionally, the repository contains 1 Python notebook that details how to create the aforementioned data subset from the raw data using Python3.  
 ---
-### Purpose
+# Purpose
+
 ### What can this data be used for?
 - This data is a resource for scientists, or anyone, who are interested in cancer research and who want to investigate cancer trends by demographic groups.
 ### What might this data, and its analysis, show us?
