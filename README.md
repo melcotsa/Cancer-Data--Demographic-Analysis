@@ -22,9 +22,9 @@ This repository contains data of cancer patients, intended to be used for analys
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/1da97359-3030-4b4d-b813-88122350d181">
 
 #### Why is this data visualization relevant?
-- The graph allows for easier comparison between the frequencies of cancer diagnosis sites in females and males. The graph reveals that, in this set of patient data, males developed cancer in their kidneys at a much higher rate than females. However, the rates at which males and females are diagnosed with cancer in the colon are the same.
-- Using this information, cancer researchers could do a couple of things:
-1. Conduct studies to find out why there is such a sex disparity in rates of cancer in the kidneys. Doctors and researchers could attempt to develop ways to mitigate the factors that lead females or males to have such high incidence rates.
+- The graph allows for easier comparison between the frequencies of cancer diagnosis sites in females and males. For example, it reveals that, in this set of patient data, males developed cancer in their kidneys at a much higher rate than females. 
+- Using information about comparative frequencies of cancer diagnosis sites, cancer researchers could do a couple of things:
+1. Conduct studies to find out why there are sex disparities in rates of cancer in specific parts of the body. Doctors and researchers could attempt to develop ways to mitigate the factors that lead females or males to have such high incidence rates in those areas.
 2. Implement new standard screening procedures. For example if, after further analysis of patient data, researchers conclude that males are at significantly higher risk for kidney cancer, they may suggest new screening guidelines for kidney cancer with the hopes of catching the cancer in an earlier stage, thereby increasing the likelihood of successful treatment and management of the disease. 
 ---
 ## Acknowledgments
