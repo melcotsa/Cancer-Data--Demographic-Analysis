@@ -32,5 +32,4 @@ This repository contains data of cancer patients, intended to be used for analys
 > This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences.
 >
 ## Licensing
-> This repository and the files found within it are open for public use under the Creative Commons Zero (CC0) License. 
->
+This repository and the files found within it are open for public use under the Creative Commons Zero (CC0) License. 
