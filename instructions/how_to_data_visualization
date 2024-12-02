@@ -1,1 +1,12 @@
 # How to Create a Data Visualization!
+
+In the following document, you will learn how to replicate the graph seen on the README of this data repository. 
+### Overview of Process
+1. Open data subset in Excel. 
+2. Create a pivot table. 
+3. Create a graph based on the table.
+4. Filter the pivot table.
+---
+# Getting Started
+1. Open the file under the "data" folder in this repository. 
+2. 
