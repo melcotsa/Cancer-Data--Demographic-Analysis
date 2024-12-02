@@ -12,6 +12,8 @@ Additionally, the repository contains 1 Python notebook that details how to crea
 - This data is a resource for scientists, or anyone, who are interested in cancer research and who want to investigate cancer trends by demographic groups.
 #### What might this data, and its analysis, show us?
 - The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures.
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/1da97359-3030-4b4d-b813-88122350d181">
+
 ---
 ## Acknowledgments
 This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences.
