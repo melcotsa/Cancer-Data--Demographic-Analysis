@@ -7,7 +7,7 @@
 2. A subset of the data that only includes the sex of the patients and their primary diagnosis site. 
 #### Additionally, the repository contains 2 instructional documents in the ["instructions"](https://github.com/melcotsa/Cancer-Data--Demographic-Analysis/tree/main/instructions) folder:
 1. A Python notebook detailing how to create the aforementioned data subset from the raw data using Python3.
-2. A document detailing how to create the data visualization/graph found later in this README file.
+2. A `.ipynb` file detailing how to create the data visualization/graph found later in this README file.
 ---
 # Purpose
 #### What can this data be used for?
