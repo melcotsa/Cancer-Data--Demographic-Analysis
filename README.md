@@ -13,14 +13,18 @@ This repository contains data of cancer patients, intended to be used for analys
 #### What can this data be used for?
 - This data is a resource for scientists, or anyone, who is interested in cancer research and who wants to investigate cancer trends by demographic groups.
 #### What might this data, and its analysis, show us?
-- The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures.
+- The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures. An example of how the data might be manipulated and used can be found in the following section.
 ---
 # Data Visualization
-- The following graph was constructed in Excel using the data subset found in the "data" folder.
-- On the x-axis, the reported areas of primary diagnosis site are listed. On the y-axis, the number of cases occurring in that diagnosis site is given.
+- The following graph was constructed in Excel using the data subset in the "data" folder.
+- On the x-axis, the reported areas of the primary diagnosis sites are listed. On the y-axis, the number of cases occurring in that diagnosis site is given.
 *Note: This particular graph excludes primary diagnosis sites that are sex-dependent (e.g. ovary, prostate gland, cervix, etc.).*
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/1da97359-3030-4b4d-b813-88122350d181">
-
+#### Why is this data visualization relevant?
+- The graph allows for easier comparison between the frequencies of cancer diagnosis sites in females and males. The graph reveals that, in this set of patient data, males developed cancer in their kidneys at a much higher rate than females. However, the rates at which males and females are diagnosed with cancer in the colon are the same.
+- Using this information, cancer researchers could do a couple of things:
+1. Conduct studies to find out why there is such a sex disparity in rates of cancer in the kidneys. Doctors and researchers could attempt to develop ways to mitigate the factors that lead females or males to have such high incidence rates.
+2. Implement new standard screening procedures. For example if, after further analysis of patient data, researchers conclude that males are at significantly higher risk for kidney cancer, they may suggest new screening guidelines for kidney cancer with the hopes of catching the cancer in an earlier stage, thereby increasing the likelihood of successful treatment and management of the disease. 
 ---
 ## Acknowledgments
 This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences.
