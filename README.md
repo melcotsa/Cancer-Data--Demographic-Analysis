@@ -1,5 +1,6 @@
 # Cancer Data Repository
-This repository contains data of cancer patients, intended to be used for analysis of diagnosis and outcome trends by demographic group. 
+> This repository contains data of cancer patients, intended to be used for analysis of diagnosis and outcome trends by demographic group.
+> 
 # What is in this repository?
 #### The repository contains two `.csv` files under the ["data"](https://github.com/melcotsa/Cancer-Data--Demographic-Analysis/tree/main/data) folder: 
 1. The raw cancer data sourced from the [Cancer Data Aggregator](https://cda.readthedocs.io/en/latest/interactive/) found via the [Cancer Research Data Commons](https://datacommons.cancer.gov/cancer-research-data-commons)
@@ -32,4 +33,5 @@ This repository contains data of cancer patients, intended to be used for analys
 > This repository was created for Prof. Gotzler's English-105-75 class at UNC-CH, as a project for our unit on writing in the Natural Sciences.
 >
 ## Licensing
-This repository and the files found within it are open for public use under the Creative Commons Zero (CC0) License. 
+> This repository and the files found within it are open for public use under the Creative Commons Zero (CC0) License.
+> 
