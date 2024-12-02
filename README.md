@@ -17,7 +17,8 @@ This repository contains data of cancer patients, intended to be used for analys
 ---
 # Data Visualization
 - The following graph was constructed in Excel using the data subset found in the "data" folder.
-- On the x-axis, the reported areas of primary diagnosis site are listed. On the y-axis, the number of cases occurring in that diagnosis site is given. *Note: This particular graph excludes primary diagnosis sites that are sex-dependent (e.g. ovary, prostate gland, cervix, etc.). 
+- On the x-axis, the reported areas of primary diagnosis site are listed. On the y-axis, the number of cases occurring in that diagnosis site is given.
+*Note: This particular graph excludes primary diagnosis sites that are sex-dependent (e.g. ovary, prostate gland, cervix, etc.).*
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/1da97359-3030-4b4d-b813-88122350d181">
 
 ---
