@@ -16,8 +16,7 @@ This repository contains data of cancer patients, intended to be used for analys
 - The data subset will outline the most common diagnoses of cancer patients by sex, which will allow scientists to see what cancers either sex is at higher risk for. This information can be incredibly useful for doctors and cancer advocates' preventative health measures. An example of how the data might be manipulated and used can be found in the following section.
 ---
 # Data Visualization
->
-- The following graph was constructed in Excel using the data subset in the "data" folder.
+> - The following graph was constructed in Excel using the data subset in the "data" folder.
 - On the x-axis, the reported areas of the primary diagnosis sites are listed. On the y-axis, the number of cases occurring in that diagnosis site is given.
 >
 *Note: This particular graph excludes primary diagnosis sites that are sex-dependent (e.g. ovary, prostate gland, cervix, etc.).*
