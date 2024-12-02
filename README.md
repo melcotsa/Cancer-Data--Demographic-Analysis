@@ -20,6 +20,7 @@ This repository contains data of cancer patients, intended to be used for analys
 - On the x-axis, the reported areas of the primary diagnosis sites are listed. On the y-axis, the number of cases occurring in that diagnosis site is given.
 *Note: This particular graph excludes primary diagnosis sites that are sex-dependent (e.g. ovary, prostate gland, cervix, etc.).*
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/1da97359-3030-4b4d-b813-88122350d181">
+
 #### Why is this data visualization relevant?
 - The graph allows for easier comparison between the frequencies of cancer diagnosis sites in females and males. The graph reveals that, in this set of patient data, males developed cancer in their kidneys at a much higher rate than females. However, the rates at which males and females are diagnosed with cancer in the colon are the same.
 - Using this information, cancer researchers could do a couple of things:
